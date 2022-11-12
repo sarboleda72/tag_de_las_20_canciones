@@ -1,0 +1,12 @@
+.titulo1{
+    color: white;
+    background-color: rgb(216, 141, 2);
+    display: flex;
+    justify-content: center;
+    /*font: oblique bold 200% Comic-sans cursive;*/
+    font-family: 'Press Start 2P', cursive;
+}
+.titulo2{
+    font-family: 'Monoton', cursive;
+    font-size: 1.2guitrem;
+}
