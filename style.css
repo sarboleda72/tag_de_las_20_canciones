@@ -10,3 +10,11 @@
     font-family: 'Monoton', cursive;
     font-size: 1.2guitrem;
 }
+.contenedor{
+    display: flex;
+    justify-content: center;    
+}
+button{
+    background-color: rgb(204, 255, 128);
+    color: gray;
+}
