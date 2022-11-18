@@ -18,3 +18,27 @@ button{
     background-color: rgb(204, 255, 128);
     color: gray;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th:hover{
+    color: white;
+    background-color: black;
+}
+.table tr{
+    color: black;
+    background-color: aquamarine;
+    font-family: 'Press Start 2P', cursive;    
+}
+caption{
+    font-family: 'Monoton', cursive;
+    font-size: 100px;
+}
+.table td:hover{
+    color:white;
+    background-color: black;
+}
